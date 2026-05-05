@@ -48,3 +48,16 @@ The Anti-Terrorism Law criminalizes activities that support or promote terrorism
 The Measures for the Security Assessment of Cross-border Transfer of Personal Information and Important Data regulates the cross-border transfer of personal information and important data and also requires organizations to conduct security assessments and obtain approval from relevant authorities before transferring such data.
 
 The State Council Regulation on the Protection of Critical Information Infrastructure Security regulates critical information infrastructure protection. Also, it requires organizations to take certain security measures and report certain types of security incidents.
+
+############################################################################################################################################################################################################################
+# Frameworks
+(NIST) - National Institute of Standards and Technology	
+(CIS Controls) - Center for Internet Security Controls
+(ISO) - International Organization for Standardization	
+(PCI-DSS) - The Payment Card Industry Data Security Standard
+(GDPR) - General Data Protection Regulation	
+(COBIT) - Control Objectives for Information and Related Technologies
+(FedRAMP) - The Federal Risk and Authorization Management Program	
+(ITAR) - International Traffic in Arms Regulations
+(AICPA) - American Institute of Certified Public Accountants	
+(NERC CIP Standards) - NERC Critical Infrastructure Protection Standards
